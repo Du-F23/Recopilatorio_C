@@ -34,4 +34,4 @@ Contenido extraido de [¿Qué son los punteros en Go?](https://ed.team/blog/que-
 Ejemplo de un [Puntero](Puntero.cpp)
 
 Resultado de [Puntero en C++](Puntero.cpp)
-![](Pictures/Screenshot_2021-09-30-11-41-05_1366x768.png)
+![](Screenshot_2021-09-30-11-41-05_1366x768.png)
